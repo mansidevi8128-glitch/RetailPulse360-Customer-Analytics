@@ -15,3 +15,7 @@
 13. Compare website/mobile-app/marketplace performance.
 14. Evaluate marketing channel spend, clicks, leads and cost per lead.
 15. Produce a clean customer-level feature table for modeling.
+
+
+
+
